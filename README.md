@@ -2,7 +2,7 @@
 
 This repository contains the practicals performed as a part of the course IT706 Advanced Communication and Networking Protocols offered at the university. The focus of this course is to mainly understand advanced/modern topics in networking like congestion control, network programming, light weight IP stack for embedded devices, software-defined networks, data centric networking, web services and protocols for modern networks.
 
-All of these practicals require of the following:
+All of these practicals require at least the following knowledge:
 1. Computer Networks.
 2. Experience working with Cisco Packet Tracer (version 7.3.0).
 3. Intermediate level knowledge about C language.
