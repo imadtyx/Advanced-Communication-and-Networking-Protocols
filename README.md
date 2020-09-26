@@ -10,7 +10,7 @@ All of these practicals require at least the following knowledge:
 So far, five practicals are attempted. I shall be adding more practicals as I progress through the course. The objectives for each of the practicals are listed below:
 Practical     | Objective                                                                                   | Files
 ------------- | -------------                                                                               | -------------    
-Lab 1a        | Static address assignment of Ipv6 network and perform address assignment to nodes.          | Lab1a.pkt
+Lab 1a        | Static address assignment of IPv6 network and perform address assignment to nodes.          | Lab1a.pkt
 Lab 1b        | Build a dynamic assignment through DHCP server using IPv6 address.                          | Lab1b.pkt
 Lab 2         | Perform dynamic routing to implement Routing Information Protocol (RIP), RIPv2.             | Lab2.pkt
 Lab 3         | Configure Link State Routing- Open Shortest Path Routing (OSPF).                            | Lab3.pkt
